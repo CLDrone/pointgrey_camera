@@ -1,6 +1,6 @@
 # pointgrey camera parameters
 
-guid: 00b09d0100a8ccb7           
+guid: 8144361026320a0           # no leading zero (tests #5350)
 video_mode: 640x480_mono8
 frame_id: pointgrey_camera
 iso_speed: 400
